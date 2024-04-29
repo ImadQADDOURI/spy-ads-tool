@@ -1,0 +1,36 @@
+npx create-next-app@latest spy-ads-tool .
+
+-----------------------------------------------
+Steps to Upload Your Project to a GitHub Repository:
+1. Create a GitHub Repository:
+
+Go to GitHub and create a new repository.
+Give it a name (e.g., "spy-ads-tool") and a description.
+Choose a visibility setting (public or private).
+2. Initialize a Git Repository in Your Project Directory:
+
+Open a terminal window and navigate to the directory containing your project files.
+Run the following command: git init
+3. Add Your Project Files to the Git Repository:
+
+Run the following command to add all files in the current directory to the Git staging area: git add .
+4. Commit Your Changes:
+
+Run the following command to commit the changes to the local Git repository: git commit -m "Initial commit"
+5. Link Your Local Repository to the Remote Repository:
+
+Run the following command to add the remote repository as a remote named "origin": git remote add origin https://github.com/YOUR_USERNAME/spy-ads-tool.git
+6. Push Your Changes to the Remote Repository:
+
+Run the following command to push your local changes to the remote repository: git push origin main
+7. Verify Your Upload:
+
+Go to your GitHub repository and check if your project files have been uploaded successfully.
+Additional Tips:
+
+Use a descriptive commit message to explain what changes you made.
+If you want to track changes to specific files, you can use git add <file_name> instead of git add ..
+You can use the git status command to check the status of your Git repository.
+If you encounter any errors, check the GitHub documentation or seek help from the GitHub community.
+
+---------------------------------------------------------------------------------------------------------------------

@@ -1,5 +1,6 @@
 npx create-next-app@latest spy-ads-tool .
 
+
 -----------------------------------------------
 Steps to Upload Your Project to a GitHub Repository:
 1. Create a GitHub Repository:
@@ -34,3 +35,8 @@ You can use the git status command to check the status of your Git repository.
 If you encounter any errors, check the GitHub documentation or seek help from the GitHub community.
 
 ---------------------------------------------------------------------------------------------------------------------
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/ImadQADDOURI/spy-ads-tool.git
+git push -u origin main

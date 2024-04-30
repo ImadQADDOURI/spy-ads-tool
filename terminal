@@ -38,5 +38,14 @@ If you encounter any errors, check the GitHub documentation or seek help from th
 git init
 git add .
 git commit -m "Initial commit"
+git branch -M main
 git remote add origin https://github.com/ImadQADDOURI/spy-ads-tool.git
 git push -u origin main
+----------------------------------------------------------------------------------------------------------------------
+
+
+npx shadcn-ui@latest init
+npx shadcn-ui@latest add button
+npx shadcn-ui@latest add aspect-ratio
+npm install next-themes
+npx shadcn-ui@latest add dropdown-menu

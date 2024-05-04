@@ -2,6 +2,7 @@ import React from 'react'
 import Logo from './Logo'
 import { Button } from "@/components/ui/button"
 import { DarkModeToggle } from './ui/DarkModeToggle'
+import UserButton from './UserButton'
 
 
 
@@ -14,6 +15,8 @@ function Header() {
         <div className='flex-1 flex items-center justify-end space-x-4²'>
           
           <DarkModeToggle/>
+
+          <UserButton/>
           
         </div>
         

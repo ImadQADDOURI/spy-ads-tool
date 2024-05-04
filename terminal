@@ -49,3 +49,5 @@ npx shadcn-ui@latest add button
 npx shadcn-ui@latest add aspect-ratio
 npm install next-themes
 npx shadcn-ui@latest add dropdown-menu
+npx shadcn-ui@latest add avatar
+

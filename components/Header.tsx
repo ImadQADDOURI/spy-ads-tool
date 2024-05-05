@@ -1,7 +1,7 @@
 import React from 'react'
 import Logo from './Logo'
 import { Button } from "@/components/ui/button"
-import { DarkModeToggle } from './ui/DarkModeToggle'
+import { DarkModeToggle } from './DarkModeToggle'
 import UserButton from './UserButton'
 
 

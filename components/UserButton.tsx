@@ -7,7 +7,7 @@ import {
     DropdownMenuSeparator,
     DropdownMenuTrigger,
   } from "@/components/ui/dropdown-menu"
-  import UserAvatar from './ui/UserAvatar'
+  import UserAvatar from './UserAvatar'
   
 
 function UserButton() {

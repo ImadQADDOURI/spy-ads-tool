@@ -51,3 +51,4 @@ npm install next-themes
 npx shadcn-ui@latest add dropdown-menu
 npx shadcn-ui@latest add avatar
 npm install next-auth
+
